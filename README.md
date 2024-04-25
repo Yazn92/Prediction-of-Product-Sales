@@ -36,6 +36,26 @@ This heatmap provides a graphical representation of the correlation matrix, allo
  ![outlet_sizes](https://github.com/Yazn92/Prediction-of-Product-Sales/assets/98054521/923532dd-0175-4b9d-bbff-28a388f404e5)
 
 
+![1](https://github.com/Yazn92/Prediction-of-Product-Sales/assets/98054521/5868e19a-e37c-477e-92f7-28b14abd2966)
+
+LinearRegression coefficients plot
+- The 3 largest coefficients are for:
+  - Outlet_Type
+  - Outlet_Size_Missing
+  - Outlet_Size_small
+    
+
+![2](https://github.com/Yazn92/Prediction-of-Product-Sales/assets/98054521/19d4d844-0443-46bd-8648-4256552a8d55)
+
+tree-based model's feature importances.
+- The top 5 most important features are:
+  - Item_MRP
+  - Outlet_Type_Grocery Store
+  - Item_Visibility
+  - Outlet_Identifier
+  - Item_Weight
+
+
  ## For further information
 For any additional questions, please contact [yaznotaku@outlook.com](mailto:yaznotaku@outlook.com).
 
